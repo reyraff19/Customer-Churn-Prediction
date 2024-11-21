@@ -1,4 +1,4 @@
-pandas==1.5.3        # For data manipulation and analysis
-numpy==1.23.5        # For numerical operations
-streamlit==1.27.2    # For building interactive web apps
-openai==0.28.0       # OpenAI Python client
+pandas>=2.0.3          # Compatible with Python 3.12
+numpy>=1.26.0          # Ensure compatibility with Python 3.12
+streamlit>=1.27.2      # Latest version for Streamlit
+openai>=0.28.0         # OpenAI Python client
